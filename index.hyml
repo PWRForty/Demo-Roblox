@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Game Hub</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Game Hub</h1>
+  </header>
+
+  <main class="game-grid">
+    <div class="game-card">
+      <img src="https://upload.wikimedia.org/wikipedia/en/9/99/Roblox_Logo_2022.svg" alt="Roblox">
+      <h2>Roblox</h2>
+      <a href="https://www.roblox.com/" target="_blank">Play</a>
+    </div>
+    <div class="game-card">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Box_Art.png/220px-Fortnite_Box_Art.png" alt="Fortnite">
+      <h2>Fortnite</h2>
+      <a href="https://www.fortnite.com/" target="_blank">Play</a>
+    </div>
+    <div class="game-card">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brawl_Stars_logo.svg/2560px-Brawl_Stars_logo.svg.png" alt="Brawl Stars">
+      <h2>Brawl Stars</h2>
+      <a href="https://supercell.com/en/games/brawlstars/" target="_blank">Play</a>
+    </div>
+  </main>
+</body>
+</html>
